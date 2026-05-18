@@ -1,6 +1,6 @@
 
 GestionNotes.java	Point d'entrée (méthode main) – lance la page de connexion
-LoginFrame.java	Fenêtre de connexion avec authentification (admin/admin123)
+LoginFrame.java	Fenêtre de connexion avec authentification (PROUDLY/1412)
 MainFrame.java	Fenêtre principale : sidebar + navigation + constantes de couleurs
 Database.java	Connexion SQLite, création tables + vues, données de démo, calculs
 AccueilPanel.java	Tableau de bord : statistiques et accès rapides
